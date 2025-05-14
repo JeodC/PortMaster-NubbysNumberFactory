@@ -3,6 +3,20 @@
 ## Notes
 Ready to run! If you enjoy the game, consider purchasing the full version on Steam. MogDogBlog has requested that only the free demo be made available on PortMaster at this time.
 
+In this demo you'll find:
+
+-A complete tutorial
+-60 levels
+
+
+-Lots of replayability value:
+
+-24 unique items to be discovered
+-17 unique perks that modify your runs
+-5 bosses (3 encountered in each game)
+-7 special events 
+-7 different pegboard layouts
+
 ## Default Gameplay Controls
 | Button            | Action                                |
 |--                 |--                                     |
