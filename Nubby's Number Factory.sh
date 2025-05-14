@@ -18,8 +18,8 @@ get_controls
 
 # Variables
 GAMEDIR="/$directory/ports/nubbysnumberfactory"
-BIG_SCALE=4000
-BIG_DELAY=8
+BIG_SCALE=6000
+BIG_DELAY=10
 SMALL_SCALE=6000
 SMALL_DELAY=16
 
@@ -43,7 +43,7 @@ fi
 
 # Display loading splash
 [ "$CFW_NAME" == "muOS" ] && $ESUDO "$GAMEDIR/splash" "$GAMEDIR/splash.png" 1
-$ESUDO "$GAMEDIR/splash" "$GAMEDIR/splash.png" 5000 & 
+$ESUDO "$GAMEDIR/splash" "$GAMEDIR/splash.png" 8000 & 
 
 # Assign gptokeyb and load the game
 $GPTOKEYB "gmloadernext.aarch64" -c "nubby.gptk" &
