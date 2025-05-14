@@ -1,7 +1,7 @@
 # Nubby's Number Factory v0.32 Demo
 
 ## Notes
-Ready to run! If you enjoy the game, consider purchasing the full version on Steam. MogDogBlog has requested that only the free demo be made available on PortMaster at this time.
+Ready to run! If you enjoy the game, consider purchasing the full version on [Steam](https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/). MogDogBlog has requested that only the free demo be made available on PortMaster at this time.
 
 In this demo you'll find:
 
